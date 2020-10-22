@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-security-authentication/spring-security-authentication.iml" filepath="$PROJECT_DIR$/spring-security-authentication/spring-security-authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-authorization/spring-security-authorization.iml" filepath="$PROJECT_DIR$/spring-security-authorization/spring-security-authorization.iml" />
+    </modules>
+  </component>
+</project>
